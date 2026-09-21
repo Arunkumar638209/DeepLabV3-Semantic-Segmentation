@@ -1,0 +1,7 @@
+﻿venv/
+gtFine/
+leftImg8bit/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+runs/
